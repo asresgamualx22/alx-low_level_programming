@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
- *This is my frist c programming to call function
-* */
+ * Description: main - Prints out a string to stdout.
+ * Return: 0 if success.
+ */
 
 
 
 int main(void)
-
-{
+  { 
 
 		puts("\"Programming is like building a multilingual puzzle");
 
