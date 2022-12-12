@@ -1,4 +1,5 @@
 #!/bin/bash
+#include <stdio.h>
 /**
  *This is my frist c programming to call function
 * */
