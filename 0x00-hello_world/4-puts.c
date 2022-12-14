@@ -2,11 +2,11 @@
 /**
  * main -Entery point 
  *
- * Return: Alwasys 0 
+ * Return: Alwasys 0 (Success)
  */
 int main(void)
 {
-	punts("\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return(0);
 }	
 
