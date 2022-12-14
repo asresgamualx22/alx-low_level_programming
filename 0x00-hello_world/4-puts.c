@@ -1,8 +1,10 @@
 #include <stdio.h>
-/* Print the main function using puts function
- * Return zero after sucsessfull
+/**
+ * main -Entery point 
+ *
+ * Return: Alwasys 0 
  */
-int main()
+int main(void)
 {
 	punts("\"Programming is like building a multilingual puzzle");
 	return(0);
