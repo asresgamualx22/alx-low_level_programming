@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
- * Print the main function using printf fuction
+ * main -Entry point
  *
- * Returen zero after fully work of main function
+ * Returen: Always 0 (Success)
  */
 int main(void)
 {
