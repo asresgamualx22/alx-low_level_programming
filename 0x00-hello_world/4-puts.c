@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main -Entery point 
+ * main point 
  *
  * Return: Alwasys 0
  */
