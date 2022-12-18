@@ -7,7 +7,7 @@
 #include <time.h>
 #include <stdio.h>
 
-main(void)
+int main(void)
 {
 	int n;
 
